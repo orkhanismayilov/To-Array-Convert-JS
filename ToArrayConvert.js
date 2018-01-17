@@ -1,5 +1,5 @@
 // Data to array convert keeping type.
-function ToArrayConver(values){
+function ToArrayConvert(values){
     var values = prompt("Enter array values using comma ','");
     values = values.split(",");
     for (i = 0; i < values.length; i++) {
